@@ -1,0 +1,8 @@
+*.kts
+*.properties
+gradlew
+gradlew.bat
+.idea/
+build/
+.gradle/
+gradle/
