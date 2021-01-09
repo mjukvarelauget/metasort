@@ -1,4 +1,4 @@
-# metasort
+# Metasort/mjuksort
 Er du bekymret for at kjip input skal sabotere den ellers veldig gode sorteringsalgortimen din?
 Er du redd for at selv randomiserte pivots ikke er random nok?
 Er du lei av kjedelige sorteringsalgoritmer med forutsigbar kjøretid?
